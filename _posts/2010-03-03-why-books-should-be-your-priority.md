@@ -26,104 +26,42 @@ Advisor: Yingze Jin
 
 <!--page-->
 
-# Heading 1
 
-## Heading 2
 
-### Heading 3
+## Week1 Schedule
+At 16:00 on September 5, our team had the first offline meeting with Professor Kim Young-taek. During the meeting, we put forward several ideas and plans.
 
-#### Heading 4
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 
-## Code
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+## Project Content
 
-```js
-// Example can be run directly in your JavaScript console
+As an important material handling equipment in industrial production, crane is widely used in construction, manufacturing, port, storage and other fields. The main goal of the crane graduation design project is to design an efficient, safe and economical crane equipment through the combination of theory and practice to meet the needs of load handling in a specific working environment.
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+Project Background:
+With the development of modern industry, the demand for material handling is gradually increasing, and traditional lifting equipment is facing the problems of low efficiency, high energy consumption, and insufficient intelligence level. Therefore, it is of great practical significance to design a crane with high load capacity, easy operation, easy maintenance and in line with safety standards.
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+### Design Content:
+1. ** Demand analysis ** : Clarify the application scenario, working environment and technical requirements of the crane, such as lifting weight, lifting height, working radius, etc.
+2. ** Structural design ** : Select the type of crane (such as bridge, portal or tower) according to the demand, and design its key components, including the main beam, hook, wire rope, hoist, etc.
+3. ** Mechanical calculation ** : Calculate the strength, stiffness and stability of the main parts of the crane to ensure that the design meets the safety and durability requirements.
+4. ** Transmission and control system design ** : Design motor drive system and control system to achieve accurate control and safe operation of the crane.
+5. ** Material selection and processing ** : Select the appropriate materials and plan the manufacturing process to ensure the strength and durability of the structure, while reducing costs.
+6. Safety and Environmental protection: Design protection devices that meet international safety standards, and consider reducing energy consumption and environmental pollution.
+7. **3D Modeling and simulation ** : Using CAD and other software for 3D modeling, and through the simulation software for mechanical properties and operation simulation, to verify the feasibility and stability of the design.
 
-<!--page-->
+### Project innovation:
+- The use of lightweight materials to improve structural strength while reducing self-weight;
+- Intelligent control system is introduced to realize automation and remote monitoring of lifting operations;
+- Integrated safety protection system to prevent overloading, overturning and other dangerous conditions.
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+### Expected Results:
+Through the design and implementation of the project, students will master the basic principles and methods of crane design, and have the ability to design the whole process from demand analysis to practical application. The final product will include a complete set of design drawings, mechanical calculation reports and simulation analysis results to provide a reference for crane design in the industrial sector.
 
-## Lists
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
 
 <!--page-->
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-<!--page-->
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
 
 
 
